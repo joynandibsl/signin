@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Register form start */
+
+.signupform{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+.signupform h1{
+    color: #1c8adb;
+    margin-bottom: 30px;
+}
+.inputbox {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 15px 0px;
+    width: 93%;
+    border: 1px solid #999;
+    outline: none;
+}
+span {
+    margin-right: 10px;
+}
+term {
+    margin: 15px 0;
+}
+button{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.signupbtn{
+    background-image: linear-gradient(to right, rgb(218, 221, 19), #ff5200);
+}
+a{
+    text-decoration: none;
+}
+hr {
+    width: 80%;
+    margin: 20px auto;
+}
+.or {
+    background: #fff;
+    width: 30px;
+    margin: -30px auto 10px;
+}
+img{
+    width: 70px;
+    margin-top: -60px;
+}
+/* Register form end */
+
+/* login form start */
+
+.loginform{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+.loginform h1{
+    color: #2415eb;
+    margin-bottom: 30px;
+}
+.inputbox {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 15px 0px;
+    width: 93%;
+    border: 1px solid #999;
+    outline: none;
+}
+span {
+    margin-right: 10px;
+}
+term {
+    margin: 15px 0;
+}
+button{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.siginpbtn{
+    background-image: linear-gradient(to right, rgb(218, 221, 19), #ff5200);
+}
+a{
+    text-decoration: none;
+}
+hr {
+    width: 80%;
+    margin: 20px auto;
+}
+.or {
+    background: #fff;
+    width: 30px;
+    margin: -30px auto 10px;
+}
+img{
+    width: 70px;
+    margin-top: -60px;
+}
+.forget{
+    color: red;
+    margin-right: 10px;
+}
+
+/* login form end */
+
+/* forget form start */
+
+.forgetform{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+.forgetform h1{
+    color: #2415eb;
+    margin-bottom: 30px;
+}
+.inputbox {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 15px 0px;
+    width: 93%;
+    border: 1px solid #999;
+    outline: none;
+}
+span {
+    margin-right: 10px;
+}
+term {
+    margin: 15px 0;
+}
+button{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.submitbtn{
+    background-image: linear-gradient(to right, rgb(218, 221, 19), #ff5200);
+}
+a{
+    text-decoration: none;
+}
+hr {
+    width: 80%;
+    margin: 20px auto;
+}
+.or {
+    background: #fff;
+    width: 30px;
+    margin: -30px auto 10px;
+}
+img{
+    width: 70px;
+    margin-top: -60px;
+}
+.forgetlast{
+    margin-left: 5px;
+}
+
+/* forget form end */
